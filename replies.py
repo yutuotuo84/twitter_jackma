@@ -1,10 +1,10 @@
 import tweepy
 import json
 
-API_Key = 
-API_Secret = 
-Access_Token = 
-Access_Token_Secret = 
+API_Key = ""
+API_Secret = "" 
+Access_Token = ""
+Access_Token_Secret = "" 
 
 # get credentials at developer.twitter.com
 auth = tweepy.OAuthHandler(API_Key, API_Secret)
